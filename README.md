@@ -1,5 +1,5 @@
 # Basic-Fundamental
-No.	Istilah	Penjelasan Singkat
+
 1.	Algoritma	Urutan langkah-langkah logis untuk menyelesaikan suatu masalah atau tugas.
 2.	Bahasa Pemrograman	Bahasa yang digunakan untuk menulis instruksi agar komputer dapat menjalankan program (misalnya Java, Python, C++).
 3.	Variabel	Tempat menyimpan data yang nilainya dapat berubah selama program berjalan.
